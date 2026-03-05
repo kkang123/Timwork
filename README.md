@@ -40,4 +40,4 @@ npm run dev
 
 # 태블릿
 
-![태블릿 건설 도면 탐색기](/public/tablet-drawing.PNG)
+![태블릿 건설 도면 탐색기](/public/tablet-drawing.webp)
